@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnnyblake31
 - 👀 I’m interested in education technology
-- 🌱 I’m currently learning mobile development w/ python
-- 💞️ I’m looking to collaborate on an app that helps users track sustainable behavior.
+- 🌱 I’m currently learning mobile development
+- 💞️ I’m looking to collaborate on an app that enables professional to provide virtual lessons to classrooms
 - 📫 How to reach me blakeblaze15@gmail.com
 
 <!---
