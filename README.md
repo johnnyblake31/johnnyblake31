@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @johnnyblake31
 - 👀 I’m interested in education technology
-- 🌱 I’m currently learning mobile development
-- 💞️ I’m looking to collaborate on an app that enables professional to provide virtual lessons to classrooms
+- 💞️ I’m looking to collaborate on an app that enables professionals to provide virtual lessons to K-12 classrooms
 - 📫 How to reach me blakeblaze15@gmail.com
 
 <!---
