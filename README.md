@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @johnnyblake31
-- 👀 I’m interested in education technology
-- 💞️ I’m looking to collaborate on an app that enables professionals to provide virtual lessons to K-12 classrooms
-- 📫 How to reach me blakeblaze15@gmail.com
+- Hi, I’m Blake. Former math teacher and cyber intelligence, now focused on building.
+- Current focus: Front Row Fantasy to bring people together to discover new music.
+- Backburner: SamWise, a tool scaling oral exams using LLMs to administer and grade the conversations
+- Always interested in collabs: blakeblaze15@gmail.com
 
 <!---
 johnnyblake31/johnnyblake31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
